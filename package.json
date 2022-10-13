@@ -1,0 +1,24 @@
+{
+  "name": "number-guesser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "number-guesser.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiannaDavila/number-guesser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiannaDavila/number-guesser/issues"
+  },
+  "homepage": "https://github.com/GiannaDavila/number-guesser#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
